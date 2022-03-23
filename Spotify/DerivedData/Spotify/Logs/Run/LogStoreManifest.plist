@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>53F4B25C-8635-4F3F-BF5C-920315FD929F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>53F4B25C-8635-4F3F-BF5C-920315FD929F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727525.835935</real>
+			<key>timeStoppedRecording</key>
+			<real>669727539.00629199</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>53F4B25C-8635-4F3F-BF5C-920315FD929F</string>
+		</dict>
+		<key>5E30B7CA-3768-4767-AB15-8DA1EB175BFB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E30B7CA-3768-4767-AB15-8DA1EB175BFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727269.187675</real>
+			<key>timeStoppedRecording</key>
+			<real>669727294.39000797</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>5E30B7CA-3768-4767-AB15-8DA1EB175BFB</string>
+		</dict>
+		<key>60FD409F-742F-415E-910E-FE75C282FB9B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>60FD409F-742F-415E-910E-FE75C282FB9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669729175.056669</real>
+			<key>timeStoppedRecording</key>
+			<real>669729180.78085601</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>60FD409F-742F-415E-910E-FE75C282FB9B</string>
+		</dict>
+		<key>71FA54CE-D3C8-491A-9CC4-3A801D4BABCA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>71FA54CE-D3C8-491A-9CC4-3A801D4BABCA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727753.83344102</real>
+			<key>timeStoppedRecording</key>
+			<real>669727760.60258603</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>71FA54CE-D3C8-491A-9CC4-3A801D4BABCA</string>
+		</dict>
+		<key>897D4850-9C30-4A3E-9AB6-B22264D81A19</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>897D4850-9C30-4A3E-9AB6-B22264D81A19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669724344.66510904</real>
+			<key>timeStoppedRecording</key>
+			<real>669724362.84546804</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>897D4850-9C30-4A3E-9AB6-B22264D81A19</string>
+		</dict>
+		<key>A57FC43F-5ACD-4802-A8E3-6B6902718DE8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A57FC43F-5ACD-4802-A8E3-6B6902718DE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669728897.61105502</real>
+			<key>timeStoppedRecording</key>
+			<real>669728904.65383399</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>A57FC43F-5ACD-4802-A8E3-6B6902718DE8</string>
+		</dict>
+		<key>DDCC2972-B668-47C8-BC40-859854EB0954</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DDCC2972-B668-47C8-BC40-859854EB0954.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727343.83192503</real>
+			<key>timeStoppedRecording</key>
+			<real>669727349.07200098</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>DDCC2972-B668-47C8-BC40-859854EB0954</string>
+		</dict>
+		<key>E54AF96A-82FF-49A1-AEFB-63726DB40AC2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E54AF96A-82FF-49A1-AEFB-63726DB40AC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727319.66226304</real>
+			<key>timeStoppedRecording</key>
+			<real>669727326.57084</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>E54AF96A-82FF-49A1-AEFB-63726DB40AC2</string>
+		</dict>
+		<key>F3632B6B-F687-471B-BF95-C48C4CCEC5E9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3632B6B-F687-471B-BF95-C48C4CCEC5E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727947.56635797</real>
+			<key>timeStoppedRecording</key>
+			<real>669728897.80387294</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>F3632B6B-F687-471B-BF95-C48C4CCEC5E9</string>
+		</dict>
+		<key>FEDDF839-178C-4F87-A3D1-522E890FB965</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FEDDF839-178C-4F87-A3D1-522E890FB965.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>669727406.08257699</real>
+			<key>timeStoppedRecording</key>
+			<real>669727426.74384403</real>
+			<key>title</key>
+			<string>Run Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>FEDDF839-178C-4F87-A3D1-522E890FB965</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
