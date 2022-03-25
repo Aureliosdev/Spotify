@@ -12,6 +12,7 @@
 		D3182C3327EB26DF00A3C13D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3182C3227EB26DF00A3C13D /* HomeViewController.swift */; };
 		D3182C3827EB26E100A3C13D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3182C3727EB26E100A3C13D /* Assets.xcassets */; };
 		D3182C3B27EB26E100A3C13D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3182C3927EB26E100A3C13D /* LaunchScreen.storyboard */; };
+		D39B167527ED96FA0046C48C /* Exxtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B167427ED96FA0046C48C /* Exxtensions.swift */; };
 		D3EEDCC027EB32C300405892 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EEDCBF27EB32C300405892 /* TabBarViewController.swift */; };
 		D3EEDCC227EB32DC00405892 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EEDCC127EB32DC00405892 /* SearchViewController.swift */; };
 		D3EEDCC427EB332100405892 /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EEDCC327EB332100405892 /* LibraryViewController.swift */; };
@@ -39,6 +40,7 @@
 		D3182C3727EB26E100A3C13D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3182C3A27EB26E100A3C13D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3182C3C27EB26E100A3C13D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D39B167427ED96FA0046C48C /* Exxtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exxtensions.swift; sourceTree = "<group>"; };
 		D3EEDCBF27EB32C300405892 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		D3EEDCC127EB32DC00405892 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D3EEDCC327EB332100405892 /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
@@ -88,12 +90,12 @@
 		D3182C2D27EB26DF00A3C13D /* Spotify */ = {
 			isa = PBXGroup;
 			children = (
+				D3182C4727EB27A200A3C13D /* Resources */,
 				D3182C4427EB274F00A3C13D /* Views */,
 				D3182C4227EB272A00A3C13D /* ViewModels */,
 				D3182C4327EB274200A3C13D /* Models */,
 				D3182C4627EB278C00A3C13D /* Controllers */,
 				D3182C4527EB277100A3C13D /* Managers */,
-				D3182C4727EB27A200A3C13D /* Resources */,
 				D3182C3C27EB26E100A3C13D /* Info.plist */,
 			);
 			path = Spotify;
@@ -150,6 +152,7 @@
 				D3182C2E27EB26DF00A3C13D /* AppDelegate.swift */,
 				D3182C3027EB26DF00A3C13D /* SceneDelegate.swift */,
 				D3182C3727EB26E100A3C13D /* Assets.xcassets */,
+				D39B167427ED96FA0046C48C /* Exxtensions.swift */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				D3EEDCCA27EB33CD00405892 /* WelcomeViewController.swift in Sources */,
 				D3EEDCCE27EB33FE00405892 /* ProfileViewController.swift in Sources */,
 				D3EEDCC027EB32C300405892 /* TabBarViewController.swift in Sources */,
+				D39B167527ED96FA0046C48C /* Exxtensions.swift in Sources */,
 				D3EEDCDA27EB34D400405892 /* HapticsManager.swift in Sources */,
 				D3EEDCDE27EB351900405892 /* AudioTrack.swift in Sources */,
 				D3182C3327EB26DF00A3C13D /* HomeViewController.swift in Sources */,
