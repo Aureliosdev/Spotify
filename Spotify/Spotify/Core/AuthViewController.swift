@@ -31,13 +31,28 @@ class AuthViewController: UIViewController, WKNavigationDelegate {
         title = "Sign In"
         webviewContent.backgroundColor = .systemBackground
         webviewContent.navigationDelegate = self
-        
-        
+       
+        guard let url = AuthManager.shared.signURL else { return }
+        webviewContent.load(URLRequest(url: url))
     }
     
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         webviewContent.frame = view.bounds
     }
-
+    func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
+        guard let url = webView.url else { return}
+        
+        // Exchange the code for access token
+           let component = URLComponents(string: url.absoluteString)
+        guard let code = component?.queryItems?.first(where: {$0.name == "code"})?.value else { return}
+        webView.isHidden = true
+        print("code\(code)")
+        AuthManager.shared.ExchangeForToken(code: code) { [ weak self] success in
+            DispatchQueue.main.async {
+                self?.navigationController?.popToRootViewController(animated: true)
+                self?.completionHandler?(success)
+            }
+        }
+    }
 }
