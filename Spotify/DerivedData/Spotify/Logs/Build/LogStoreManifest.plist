@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3A3436BD-1A8E-45D5-A497-B239CED2F59D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A3436BD-1A8E-45D5-A497-B239CED2F59D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389493.51597798</real>
+			<key>timeStoppedRecording</key>
+			<real>671389493.85643101</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>3A3436BD-1A8E-45D5-A497-B239CED2F59D</string>
+		</dict>
+		<key>488455D1-8854-4222-8A2E-18483C64DB4A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>488455D1-8854-4222-8A2E-18483C64DB4A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389262.942451</real>
+			<key>timeStoppedRecording</key>
+			<real>671389263.28290701</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>488455D1-8854-4222-8A2E-18483C64DB4A</string>
+		</dict>
+		<key>5BE4AD03-2FFE-45EC-9BEE-59A7C582FAC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BE4AD03-2FFE-45EC-9BEE-59A7C582FAC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389534.20629394</real>
+			<key>timeStoppedRecording</key>
+			<real>671389535.41531301</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>5BE4AD03-2FFE-45EC-9BEE-59A7C582FAC8</string>
+		</dict>
+		<key>5BE79DBE-78D0-444B-8C33-D8A32DF72B20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BE79DBE-78D0-444B-8C33-D8A32DF72B20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389138.44870496</real>
+			<key>timeStoppedRecording</key>
+			<real>671389139.57722497</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>5BE79DBE-78D0-444B-8C33-D8A32DF72B20</string>
+		</dict>
+		<key>68991F46-976F-400E-8988-2EBA06115900</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68991F46-976F-400E-8988-2EBA06115900.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671388933.62753105</real>
+			<key>timeStoppedRecording</key>
+			<real>671388940.06583703</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>68991F46-976F-400E-8988-2EBA06115900</string>
+		</dict>
+		<key>78D84E66-D954-4236-A937-F128B33C3C86</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>78D84E66-D954-4236-A937-F128B33C3C86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389116.86455905</real>
+			<key>timeStoppedRecording</key>
+			<real>671389117.39390004</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>78D84E66-D954-4236-A937-F128B33C3C86</string>
+		</dict>
+		<key>95F8B0B5-A086-417B-AC0D-2D56654BBC69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95F8B0B5-A086-417B-AC0D-2D56654BBC69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389182.61249697</real>
+			<key>timeStoppedRecording</key>
+			<real>671389183.26521206</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>95F8B0B5-A086-417B-AC0D-2D56654BBC69</string>
+		</dict>
+		<key>96F6C58F-6330-4F7E-8C3F-AEB72BD06C5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96F6C58F-6330-4F7E-8C3F-AEB72BD06C5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671389246.09433997</real>
+			<key>timeStoppedRecording</key>
+			<real>671389246.72187805</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>96F6C58F-6330-4F7E-8C3F-AEB72BD06C5D</string>
+		</dict>
+		<key>B3144CAB-08E8-47E5-A333-3C43E3560AF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3144CAB-08E8-47E5-A333-3C43E3560AF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Spotify project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Spotify</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Spotify</string>
+			<key>timeStartedRecording</key>
+			<real>671388973.570701</real>
+			<key>timeStoppedRecording</key>
+			<real>671388979.56838405</real>
+			<key>title</key>
+			<string>Build Spotify</string>
+			<key>uniqueIdentifier</key>
+			<string>B3144CAB-08E8-47E5-A333-3C43E3560AF1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

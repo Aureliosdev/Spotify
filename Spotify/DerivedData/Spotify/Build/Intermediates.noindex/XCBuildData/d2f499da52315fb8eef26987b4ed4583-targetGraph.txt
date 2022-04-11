@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Spotify in Spotify, no dependencies
